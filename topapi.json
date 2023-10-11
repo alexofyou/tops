@@ -3,7 +3,8 @@
     
  
  {
-
+    "name": "Тинькофф Банк",
+     "rating": 5,
      "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
      "percent": "1%",
 	"sum_one": "до 50 000 руб",
@@ -17,7 +18,8 @@
 
 
  {
-  
+   "name": "Восточный Банк",
+     "rating": 4,
      "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
   
      "percent": "0%",
@@ -28,7 +30,8 @@
     
  ,
  {
-   
+    "name": "ХОУМ КРЕДИТ",
+     "rating": 3,
      "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
      "percent": "1%",
 	"sum_one": "до 50 000 руб",
@@ -42,7 +45,8 @@
 
 
  {
-  
+   "name": "ХОУМ КРЕДИТ",
+     "rating": 3,
      "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
      "percent": "0%",
 	"sum_one": "до 50 000 руб",
